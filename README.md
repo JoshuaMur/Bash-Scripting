@@ -12,4 +12,7 @@ Over all, `Bash` is an application interface, or a command processor that runs i
 
 
 ## The Navigation
+`
+Some Bash script codes here
 
+`
