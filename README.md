@@ -19,7 +19,7 @@ Some Bash script codes here
 ```
 
 
-`
+```
 Some more codes 
 
-`
+```
